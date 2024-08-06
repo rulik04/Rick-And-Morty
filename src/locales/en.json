@@ -1,0 +1,23 @@
+{
+    "allCharacters": "All characters",
+    "allEpisodes": "All episodes",
+    "allLocations": "All locations",
+    "characters": "Characters",
+    "episodes": "Episodes",
+    "locations": "Locations",
+    "name": "Name",
+    "title": "Name",
+    "all": "All",
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown",
+    "species": "Species",
+    "gender": "Gender",
+    "origin": "Origin",
+    "location": "Location",
+    "locationInfo": "Information about location",
+    "residents": "Residents",
+    "episodeInfo": "Information about episode",
+    "notExist": "This page does not exist",
+    "goBack": "Go back"
+}

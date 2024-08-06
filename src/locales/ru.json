@@ -1,0 +1,23 @@
+{
+    "allCharacters": "Все персонажи",
+    "allEpisodes": "Все эпизоды",
+    "allLocations": "Все локации",
+    "characters": "Персонажи",
+    "episodes": "Эпизоды",
+    "locations": "Локации",
+    "name": "Имя",
+    "title": "Название",
+    "all": "Все",
+    "alive": "Живые",
+    "dead": "Мертвые",
+    "unknown": "Неизвестные",
+    "species": "Вид",
+    "gender": "Пол",
+    "origin": "Происхождение",
+    "location": "Локация",
+    "locationInfo": "Информация о локации",
+    "residents": "Жители",
+    "episodeInfo": "Информация об эпизоде",
+    "notExist": "Этой страницы не существует",
+    "goBack": "Вернуться назад"
+}
